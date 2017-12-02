@@ -22,6 +22,7 @@ output:
     highlight: textmate
     include:
       after_body: footer.html
+      in_header: track_google.html
     css: styles.css
     
 
