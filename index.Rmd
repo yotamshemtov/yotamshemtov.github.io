@@ -1,0 +1,47 @@
+---
+title: ""
+---
+
+
+
+<!-- ![](Screenshot from 2016-05-06 11:00:07.png){width=40%} -->
+
+
+<!-- asas -->
+<!-- | ![](Screenshot from 2016-05-06 11:00:07.png) | ![](Screenshot from 2016-05-06 11:00:07.png) | -->
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<!-- <body> -->
+<!--   sdsd -->
+
+<div class="page__inner-wrap" markdown="1">
+<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam.jpg" width="400" height="275"> I am a  Ph.D. Candidate in Economics at the University of California, Berkeley. My research interests are Labor and Public Economics, and Applied Econometrics. 
+<!-- Before coming to Berkeley I completed my B.A and M.A in Economics at Tel-Aviv University.  -->
+
+You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf">CV here</a>.</p></section> 
+
+I can reached at shemtov@berkeley.edu.
+</div>
+
+<br><br>
+
+
+<!-- aassa -->
+
+<!-- </body> -->
+
+
+
+<!-- sdsdsd -->
+
+
+<!-- <img style="float: right;" src="Screenshot from 2016-05-06 11:00:07.png"> -->
+
+
+
