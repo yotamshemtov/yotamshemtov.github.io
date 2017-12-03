@@ -51,7 +51,7 @@ the treated and control units.  Covariate balance is therefore commonly used to 
 ---
 
 ### <a href="https://link.springer.com/article/10.1007/s11187-014-9619-8" target="_blank">Entrepreneurs' Negotiation Behavior</a>
-### (with Sabrina Artinger and Nir Vulkan) 
+#### (with Sabrina Artinger and Nir Vulkan) 
 #### Small Business Economics, 2015.
 
 ---

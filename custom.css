@@ -1,17 +1,38 @@
+<style type="text/css">
 
-#left {
-  left:-8.33%;
-  text-align: left;
-  float: left;
-  width:40%;
-  z-index:-10;
+body{ /* Normal  */
+      font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 8px;
 }
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
 
-#right {
-  left:31.25%;
-  top: 75px;
-  float: right;
-  text-align: right;
-  z-index:-10;
-  width:40%;
-}
+
+
+
+
+
