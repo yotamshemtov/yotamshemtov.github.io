@@ -21,12 +21,26 @@ title: ""
 <!--   sdsd -->
 
 <div class="page__inner-wrap" markdown="1">
-<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam.jpg" width="400" height="275"> I am a  Ph.D. Candidate in Economics at the University of California, Berkeley. My research interests are Labor and Public Economics, and Applied Econometrics. 
-<!-- Before coming to Berkeley I completed my B.A and M.A in Economics at Tel-Aviv University.  -->
+<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam.jpg" width="400" height="275"> 
+<font size="5"> 
+
+I am a  Ph.D. Candidate in Economics at the University of California, Berkeley. 
+
+<!-- <br><br> -->
 
 You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf">CV here</a>.</p></section> 
 
-I can reached at shemtov@berkeley.edu.
+
+I can be reached at shemtov@berkeley.edu.
+
+<br><br>
+
+**Research fields:**  
+<p>Labor Economics</p><p>Public Finance </p><p>Applied Econometrics </p> 
+<!-- Before coming to Berkeley I completed my B.A and M.A in Economics at Tel-Aviv University.  -->
+
+
+<font size="4">
 </div>
 
 <br><br>
