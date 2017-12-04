@@ -28,7 +28,7 @@ I am a  Ph.D. Candidate in Economics at the University of California, Berkeley.
 
 <!-- <br><br> -->
 
-You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf">CV here</a>.</p></section> 
+You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">CV here</a>.</p></section> 
 
 
 I can be reached at shemtov@berkeley.edu.
