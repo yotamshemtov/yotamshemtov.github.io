@@ -2,31 +2,24 @@
 title: "Yotam Shem-Tov"
 ---
 
-
-
-<!-- ![](Screenshot from 2016-05-06 11:00:07.png){width=40%} -->
-
-
-<!-- asas -->
-<!-- | ![](Screenshot from 2016-05-06 11:00:07.png) | ![](Screenshot from 2016-05-06 11:00:07.png) | -->
+ <!-- # To install icons I use the oackage library("icon") that can be installed using: devtools::install_github("ropenscilabs/icon") -->
 
 
 <!-- <br><br> -->
 
 <!-- <br><br> -->
-
-<!-- <br><br> -->
-
-<!-- <body> -->
-<!--   sdsd -->
 
 <div class="page__inner-wrap" markdown="1">
-<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam.jpg" width="400" height="275"> 
+<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam.jpg" width="400" height="275">
 <font size="5"> 
 
-I am a  Ph.D. Candidate in Economics at the University of California, Berkeley. 
+<p>Ph.D. Candidate in Economics </p>
+<p>University of California, Berkeley </p>
 
 <!-- <br><br> -->
+
+<p> *I will be on the job market in 2018/2019 and available for interviews at the ASSA Annual Meeting in Atlanta, GA (January 4-6, 2019)* </p>
+
 
 You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">CV here</a>.</p></section> 
 
@@ -44,7 +37,10 @@ I can be reached at shemtov@berkeley.edu.
 </div>
 
 <br><br>
+<br><br>
+<br><br>
 
+<!-- aass -->
 
 <!-- aassa -->
 
