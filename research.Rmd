@@ -41,7 +41,9 @@ This paper investigates the impact of teacher quality on future criminal behavio
 <!-- --- -->
 
 ### <a href="files/Shemtov_indigent_2018.pdf" target="_blank">Make or Buy? The Provision of Indigent Defense Services in the U.S. </a> 
-#### *Submitted*
+#### <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
+
+
 
 U.S. courts provide constitutionally mandated legal services to low-income defendants via private court-appointed attorneys and public defenders’ organizations. This paper investigates the relative efficacy of these two modes of indigent defense by comparing outcomes of co-defendants assigned either a public defender or a private court-appointed attorney within the same case. Using data from San Francisco and federal district courts, I find that in multiple defendant cases public defender assignment is plausibly as good as random. Public defenders reduce the probability of any prison sentence by 22% and the length of prison by 10%.
 
