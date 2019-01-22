@@ -58,7 +58,7 @@ We derive new variance formulas for inference on a general class of estimands of
 ---
 
 ### <a href="https://arxiv.org/abs/1611.06408" target="_blank">The Classification Permutation Test: A Non-Parametric Test for Equality of Multivariate Distributions</a>
-####(with <a href="http://dept.stat.lsa.umich.edu/~johanngb/" target="_blank">Johann Gagnon-Bartsch</a>) *R&R at The Annals of Applied Statistics*
+####(with <a href="http://dept.stat.lsa.umich.edu/~johanngb/" target="_blank">Johann Gagnon-Bartsch</a>) *Forthcoming at The Annals of Applied Statistics*
 
 The gold standard for identifying causal relationships is a randomized controlled experiment.
 In many applications in the social sciences and medicine, the researcher does not control the assignment mechanism and instead may rely upon natural experiments or matching methods as a substitute to experimental randomization. 
