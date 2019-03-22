@@ -22,7 +22,15 @@ title: "Yotam Shem-Tov"
 
 <!-- <br><br> -->
 
-<p> *I will be on the job market in 2018/2019 and available for interviews at the ASSA Annual Meeting in Atlanta, GA (January 4-6, 2019)* </p>
+<br><br>
+
+<!-- <p> *I will be on the job market in 2018/2019 and available for interviews at the ASSA Annual Meeting in Atlanta, GA (January 4-6, 2019)* </p> -->
+
+Postdoctoral Fellow at UC Berkeley and Visiting Fellow at the National Bureau of Economic Research (2019-2020)
+
+<br><br>
+
+Assistant Professor, Department of Economics, UCLA (2020-) 
 
 
 <br><br>
@@ -33,11 +41,13 @@ E-mail: shemtov@berkeley.edu
 
 <br><br>
 
-**Research fields:**  
-<p>Labor Economics </p><p>Applied Econometrics </p> 
+**Research fields:** Labor Economics, Applied Econometrics 
 <!-- <p> Economics of Crime </p> -->
 <!-- Before coming to Berkeley I completed my B.A and M.A in Economics at Tel-Aviv University.  -->
 
+<br><br>
+
+Check out my better half's website <a href="https://sites.google.com/site/julianalondonovelez/home" target="_blank">here</a>.
 
 <font size="4">
 </div>
