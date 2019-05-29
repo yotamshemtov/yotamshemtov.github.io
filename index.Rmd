@@ -17,25 +17,23 @@ title: "Yotam Shem-Tov"
 <header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam3.jpg" width="380" height="275">
 <font size="5"> 
 
-<p>Ph.D. Candidate in Economics </p>
-<p>University of California, Berkeley </p>
-
-<!-- <br><br> -->
-
-<br><br>
-
-<!-- <p> *I will be on the job market in 2018/2019 and available for interviews at the ASSA Annual Meeting in Atlanta, GA (January 4-6, 2019)* </p> -->
-
 Postdoctoral Fellow at UC Berkeley and Visiting Fellow at the National Bureau of Economic Research (2019-2020)
 
 <br><br>
 
 Assistant Professor, Department of Economics, UCLA (2020-) 
 
+<!-- <br><br> -->
+
+
+<!-- <p> *I will be on the job market in 2018/2019 and available for interviews at the ASSA Annual Meeting in Atlanta, GA (January 4-6, 2019)* </p> -->
+
+
+
 
 <br><br>
 <!-- You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">CV here</a>.</p></section> -->
-<a href="files/YotamShemTov_CV.pdf" target="_blank">Curriculum vitae</a></p></section>
+<a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
 
 E-mail: shemtov@berkeley.edu
 
