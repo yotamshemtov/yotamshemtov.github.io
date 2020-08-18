@@ -18,7 +18,7 @@ title: "Yotam Shem-Tov"
 <font size="5"> 
 
 
-Assistant professor of economics at UCLA
+Assistant Professor of Economics at the University of California, Los Angeles 
 
 <!-- <br><br> -->
 
@@ -31,6 +31,8 @@ Assistant professor of economics at UCLA
 <br><br>
 <!-- You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">CV here</a>.</p></section> -->
 <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
+
+<br><br>
 
 E-mail: shemtov@econ.ucla.edu
 
