@@ -17,11 +17,8 @@ title: "Yotam Shem-Tov"
 <header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam3.jpg" width="380" height="275">
 <font size="5"> 
 
-Postdoctoral Fellow at UC Berkeley and Visiting Fellow at the National Bureau of Economic Research (2019-2020)
 
-<br><br>
-
-Assistant Professor, Department of Economics, UCLA (2020-) 
+Assistant professor of economics at UCLA
 
 <!-- <br><br> -->
 

@@ -11,11 +11,10 @@ title: "Contact"
 <br><br>
 
 ### **Mailing Address**:  \
-University of California, Berkeley \
-Department of Economics \
-530 Evans Hall, #3880 \
-Berkeley, CA 94720-3880 \
-
+University of California, Los Angeles 
+Department of Economics
+BOX 951477, 8283 Bunche Hall
+Los Angeles, CA, 90095
 
 
 <!-- First Header  |  -->
