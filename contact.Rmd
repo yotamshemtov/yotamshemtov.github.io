@@ -6,15 +6,15 @@ title: "Contact"
 
 <br><br>
 
-### **Email**: shemtov@berkeley.edu \
+### **Email**: shemtov@econ.ucla.edu \
 
 <br><br>
 
 ### **Mailing Address**:  \
-University of California, Los Angeles 
-Department of Economics
-BOX 951477, 8283 Bunche Hall
-Los Angeles, CA, 90095
+University of California, Los Angeles \
+Department of Economics \
+BOX 951477, 8283 Bunche Hall \
+Los Angeles, CA, 90095 \
 
 
 <!-- First Header  |  -->
