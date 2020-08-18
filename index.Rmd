@@ -32,11 +32,11 @@ Assistant professor of economics at UCLA
 <!-- You can download a recent version of my <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">CV here</a>.</p></section> -->
 <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
 
-E-mail: shemtov@berkeley.edu
+E-mail: shemtov@econ.ucla.edu
 
 <br><br>
 
-**Research fields:** Labor Economics, Applied Econometrics 
+**Research fields:** Labor Economics, Public Finance,  Applied Econometrics 
 <!-- <p> Economics of Crime </p> -->
 <!-- Before coming to Berkeley I completed my B.A and M.A in Economics at Tel-Aviv University.  -->
 
