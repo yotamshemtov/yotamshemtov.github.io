@@ -8,24 +8,37 @@ title: "Research"
 
 ## Recent
 
-### <a href="files/YotamShemTov_JMP.pdf" target="_blank"> Does Incarceration Increase Crime? (**Job Market Paper**) </a> 
-#### (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+### <a href="files/Rose_Shemtov_2020_Manuscript.pdf" target="_blank"> How does incarceration affect crime? Estimating the dose-response function  </a> 
+#### (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) Revise and resubmit in the *Journal of Political Economy*  <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a> 
 
-This paper studies the causal effect of incarceration on reoffending using discontinuities in
-state sentencing guidelines and two decades of administrative records from North Carolina. A
-regression discontinuity analysis shows that one year of incarceration reduces the likelihood of
-committing new assault, property, and drug offenses within three years of conviction by 38%,
-24%, and 20%, respectively. Incarceration sentences temporarily incapacitate offenders by
-removing them from society but can also influence post-release criminal behavior. To parse
-the non-linear and heterogeneous effects of these channels, we develop an econometric model of
-sentencing length and recidivism. Our model allows for Roy-style selection into sentencing on
-the basis of latent criminality. We propose a two-step control function estimator of the model
-parameters and show that our estimates accurately reproduce the reduced form effects of
-the sentencing discontinuities we study. Our parameter estimates indicate that incarceration
-has modest crime-reducing behavioral effects that are diminishing in incarceration length.
-A cost-benefit analysis suggests, however, that the benefit of reducing crime by lengthening
-sentences (through both incapacitation and behavioral channels) is outweighed by the large
-fiscal costs of incarceration.
+We study the causal effect of incarceration on reoffending using discontinuities in North
+Carolina’s sentencing guidelines. A regression discontinuity analysis shows that one year of
+incarceration reduces the likelihood of new violent, property, and drug offenses within three
+years of sentencing by 39%, 32%, and 24%. To parse the potentially heterogeneous dose-
+response relationship underlying these effects, we develop an econometric model of prison
+sentences and recidivism. We find incarceration has meaningful crime-reducing average effects
+that diminish in incarceration length. As a result, budget-neutral reductions in sentence
+length combined with increases in incarceration rates can decrease recidivism.
+
+
+<!-- ### <a href="files/YotamShemTov_JMP.pdf" target="_blank"> Does Incarceration Increase Crime? (**Job Market Paper**) </a>  -->
+<!-- #### (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) -->
+
+<!-- This paper studies the causal effect of incarceration on reoffending using discontinuities in -->
+<!-- state sentencing guidelines and two decades of administrative records from North Carolina. A -->
+<!-- regression discontinuity analysis shows that one year of incarceration reduces the likelihood of -->
+<!-- committing new assault, property, and drug offenses within three years of conviction by 38%, -->
+<!-- 24%, and 20%, respectively. Incarceration sentences temporarily incapacitate offenders by -->
+<!-- removing them from society but can also influence post-release criminal behavior. To parse -->
+<!-- the non-linear and heterogeneous effects of these channels, we develop an econometric model of -->
+<!-- sentencing length and recidivism. Our model allows for Roy-style selection into sentencing on -->
+<!-- the basis of latent criminality. We propose a two-step control function estimator of the model -->
+<!-- parameters and show that our estimates accurately reproduce the reduced form effects of -->
+<!-- the sentencing discontinuities we study. Our parameter estimates indicate that incarceration -->
+<!-- has modest crime-reducing behavioral effects that are diminishing in incarceration length. -->
+<!-- A cost-benefit analysis suggests, however, that the benefit of reducing crime by lengthening -->
+<!-- sentences (through both incapacitation and behavioral channels) is outweighed by the large -->
+<!-- fiscal costs of incarceration. -->
 
 ---
 
@@ -41,7 +54,7 @@ This paper investigates the impact of teacher quality on future criminal behavio
 <!-- --- -->
 
 ### <a href="files/Shemtov_indigent_2019.pdf" target="_blank">Make or Buy? The Provision of Indigent Defense Services in the U.S. </a> 
-#### Forthcoming at *The Review of Economics and Statistics*  
+#### Forthcoming in the *Review of Economics and Statistics*  
 
 #### <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
 
@@ -50,7 +63,7 @@ U.S. courts provide constitutionally mandated legal services to low-income defen
 ---
 
 ### <a href="https://arxiv.org/abs/1708.02140" target="_blank">Inference on a New Class of Sample Average Treatment Effects</a>
-#### (with <a href="http://sekhon.berkeley.edu/" target="_blank">Jasjeet S. Sekhon</a>) Forthcoming at *Journal of the American Statistical Association*
+#### (with <a href="http://sekhon.berkeley.edu/" target="_blank">Jasjeet S. Sekhon</a>) Forthcoming in the *Journal of the American Statistical Association*
 
 We derive new variance formulas for inference on a general class of estimands of causal average treatment effects in a Randomized Control Trial (RCT). We generalize Robins (1988) and show that when the estimand of interest is the Sample Average Treatment Effect of the Treated (SATT or SATC for controls), a consistent variance estimator exists. Although these estimands are equal to the Sample Average Treatment Effect (SATE) in expectation, potentially large differences in both accuracy and coverage can occur by the change of estimand, even asymptotically. Inference on the SATE, even using a conservative confidence interval, provides incorrect coverage of the SATT or SATC. We derive the variance and limiting distribution of a new and general class of estimands---any mixing between SATT and SATC---for which the SATE is a specific case. We demonstrate the applicability of the new theoretical results using Monte-Carlo simulations and an empirical application with hundreds of online experiments with an average sample size of approximately one hundred million observations per experiment. An R package, estCI, that implements all the proposed estimation procedures is available. 
 <!-- https://github.com/yotamshemtov/estCI -->
