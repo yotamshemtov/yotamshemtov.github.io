@@ -9,7 +9,7 @@ title: "Research"
 ## Recent
 
 ### <a href="files/Rose_Shemtov_2020_Manuscript.pdf" target="_blank"> How does incarceration affect crime? Estimating the dose-response function  </a> 
-#### (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) <a href="files/Rose_Shemtov_2020_Online_Appendix.pdf" target="_blank"> Online Appendix </a> <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a> Revise and resubmit in the *Journal of Political Economy*   
+#### (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) <a href="files/Rose_Shemtov_2020_Online_Appendix.pdf" target="_blank"> Online Appendix </a>,  <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a> Revise and resubmit in the *Journal of Political Economy*   
 
 
 
