@@ -9,16 +9,17 @@ navbar:
     #  href: about.html
     - text: "Research"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Software"
-      href: software.html
-    - text: "Contact"
-      href: contact.html
+    #- text: "Teaching"
+    #  href: teaching.html
+    #- text: "Personal"
+    #  href: personal.html
+    #- text: "Contact"
+    #  href: contact.html
 output_dir: "."
 output:
   html_document:
-    theme: flatly
+    theme: yeti
+    #theme: flatly
     highlight: textmate
     include:
       after_body: footer.html

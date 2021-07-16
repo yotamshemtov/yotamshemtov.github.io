@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+<br><br>
+
+<!-- ![My better half](/Users/yotamshemtov/Dropbox/yotamshemtov.github.io/files/personal/paris.jpg){width=2in, height=4in}   -->
+
+<!-- # ```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '50%', fig.align = "center", fig.show = "hold"} -->
+<!-- # knitr::include_graphics(c("/Users/yotamshemtov/Dropbox/yotamshemtov.github.io/files/personal/paris.jpg","/Users/yotamshemtov/Dropbox/yotamshemtov.github.io/files/personal/paris.jpg")) -->
+<!-- # ``` -->
+
+
+<img width="30%" src="/Users/yotamshemtov/Dropbox/yotamshemtov.github.io/files/personal/paris.jpg"/>
+<img width="30%" src="/Users/yotamshemtov/Dropbox/yotamshemtov.github.io/files/personal/paris.jpg"/>

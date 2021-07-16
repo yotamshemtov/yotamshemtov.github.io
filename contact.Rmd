@@ -1,14 +1,18 @@
 ---
-title: "Contact"
+title: ""
 # output: html_document
 # css: test.css
 ---
 
-<br><br>
+&nbsp;
+
+## Contact information
+&nbsp;
+
 
 ### **Email**: shemtov@econ.ucla.edu \
 
-<br><br>
+&nbsp;
 
 ### **Mailing Address**:  \
 University of California, Los Angeles \
