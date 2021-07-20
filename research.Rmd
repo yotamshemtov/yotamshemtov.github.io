@@ -28,7 +28,7 @@ title: ""
 &nbsp;
 
 #### <a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> **How does incarceration affect reoffending? Estimating the dose-response function**  </a>  (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
-#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>,   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a> Accepted in the *Journal of Political Economy*   
+#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>,   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a> Forthcoming in the *Journal of Political Economy*   
 
 
 
