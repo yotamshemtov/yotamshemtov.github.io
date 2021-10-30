@@ -1,0 +1,75 @@
+---
+title: "Yotam Shem-Tov"
+---
+
+ <!-- # To install icons I use the oackage library("icon") that can be installed using: devtools::install_github("ropenscilabs/icon") -->
+
+<!-- To push to github I use the following commands in the command line: -->
+<!-- git add --all -->
+<!-- git commit -m "CV updates" -->
+<!-- git push -u origin master -->
+
+<!-- <br><br> -->
+
+<!-- <br><br> -->
+
+<div class="page__inner-wrap" markdown="1">
+<header><h1 class="page__title" itemprop="headline"></h1></header><section class="page__content" itemprop="text"><p><img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="files/yotam3.jpg" width="370" height="275">
+<font size="5"> 
+
+
+I am an Assistant Professor of Economics at the University of California, Los Angeles. I study topics in labor economics, criminal justice and crime, and applied econometrics. 
+<!-- I received a Ph.D. in Economics from UC Berkeley in May 2019. Before that, I completed an M.A. in Economics and a B.A. in Economics and Philosophy from Tel-Aviv University.    -->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<!-- E-mail: shemtov@econ.ucla.edu -->
+E-mail: <a href="shemtov@econ.ucla.edu" target="_blank"> shemtov@econ.ucla.edu</a></p></section>
+<a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
+
+&nbsp;
+
+**UCLA students**: Schedule a <a href="https://calendly.com/shem-tov/15min" target="_blank">15-min</a> meeting with me (feel free to register for more than one slot)
+
+&nbsp;
+
+
+
+Check out my better half's website <a href="https://sites.google.com/site/julianalondonovelez/home" target="_blank">here</a>.
+
+<font size="3">
+</div>
+
+<br><br>
+<br><br>
+<!-- <br><br> -->
+
+<!-- --- -->
+<!-- ## Working papers -->
+<!-- ### New Estimates of the Behavioral and Incapacitation Effects of Prison -->
+<!-- #### with Evan K. Rose  (Job Market Paper) -->
+
+<!-- U.S. courts provide constitutionally mandated legal services to indigent defendants via private court-appointed attorneys and public defenders' organizations. I investigate the relative efficacy of these two modes of indigent defense by comparing outcomes of co-defendants assigned either a public defender or a private court-appointed attorney within the same case. Using data from San Francisco and federal district courts, I argue and show empirically that in multiple defendant cases public defender assignment is as good as random. Estimates show that public defenders reduce the probability of any prison sentences by 22%, as well as the length of prison by 10%.   -->
+
+<!-- --- -->
+<!-- ## Working papers -->
+
+<!-- aass -->
+
+<!-- aassa -->
+
+<!-- </body> -->
+
+
+
+<!-- sdsdsd -->
+
+
+<!-- <img style="float: right;" src="Screenshot from 2016-05-06 11:00:07.png"> -->
+
+
+
