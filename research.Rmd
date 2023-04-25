@@ -8,8 +8,15 @@ title: ""
 
 <!-- ## Recent -->
 
+lowwage_rs.pdf
+
 ## **Works in Progress**
 &nbsp;
+
+####  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+
+
+---
 
 #### **The Impact of Incarceration on Employment and Earnings** (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
 #### Email me for draft
@@ -60,7 +67,7 @@ title: ""
 
 ---
 
-#### <a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> **How does incarceration affect reoffending? Estimating the dose-response function**  </a>  (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
+#### <a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> **How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**  </a>  (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
 #### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>,   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a>  
 #### *Journal of Political Economy*, 2021   
 
