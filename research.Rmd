@@ -8,8 +8,6 @@ title: ""
 
 <!-- ## Recent -->
 
-lowwage_rs.pdf
-
 ## **Works in Progress**
 &nbsp;
 
