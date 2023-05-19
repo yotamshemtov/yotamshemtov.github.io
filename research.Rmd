@@ -55,8 +55,8 @@ title: ""
 
 
 #### <a href="files/Shemtov_indigent_RESTAT.pdf" target="_blank">**Make or Buy? The Provision of Indigent Defense Services in the U.S.** </a> 
+#### <a href="files/rest_a_00976-supp.pdf" target="_blank">Online Appendix</a>;    <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
 #### *Review of Economics and Statistics*, 2022  
-#### <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
 
 --- 
 
@@ -66,7 +66,7 @@ title: ""
 ---
 
 #### <a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> **How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**  </a>  (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
-#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>,   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a>  
+#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>;   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a>  
 #### *Journal of Political Economy*, 2021   
 
 
