@@ -11,7 +11,10 @@ title: ""
 ## **Works in Progress**
 &nbsp;
 
-#### <span style="color: green;">**[NEW]**</span>  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+#### <span style="color: green;">**[NEW]**</span> <a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
+<!--  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) -->
+
+
 
 
 ---
