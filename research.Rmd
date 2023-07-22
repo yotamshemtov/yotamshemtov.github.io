@@ -12,6 +12,7 @@ title: ""
 &nbsp;
 
 #### <span style="color: green;">**[NEW]**</span> <a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
+#### <a href="https://www.nber.org/papers/w31447"> NBER Working Paper No. 31447, 2023 </a>
 <!--  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) -->
 
 
