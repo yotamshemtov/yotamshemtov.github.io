@@ -35,11 +35,7 @@ title: ""
 
 ---
 
-#### <a href="files/deployments.pdf" target="_blank"> **The Effects of Combat Deployments on Veterans’ Outcomes** </a>  (with <a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>, <a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle Greenberg</a>, <a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew Gudgeon</a>, and  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
-#### <a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30"> NBER Working Paper No. 30622, 2022 </a>
-#### Revision requested by *Journal of Political Economy*  
 
----
 
 
 #### <a href="http://arxiv.org/abs/2111.12258" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
@@ -50,6 +46,12 @@ title: ""
 
 ## **Publications**
 &nbsp;
+
+#### <a href="files/deployments.pdf" target="_blank"> **The Effects of Combat Deployments on Veterans’ Outcomes** </a>  (with <a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>, <a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle Greenberg</a>, <a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew Gudgeon</a>, and  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+#### <a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30"> NBER Working Paper No. 30622, 2022 </a>
+#### Accepted by the *Journal of Political Economy*  
+
+---
 
 
 #### <a href="files/MIR.pdf" target="_blank"> **Can Restorative Justice Conferencing Reduce Recidivism? Evidence From the Make-it-Right Program** (with  <a href="https://gspp.berkeley.edu/faculty-and-impact/faculty/steven-raphael" target="_blank">Steven Raphael</a> and <a href="https://www.capolicylab.org/staff/alissa-skog/" target="_blank">Alissa Skog</a>) 
