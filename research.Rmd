@@ -11,7 +11,9 @@ title: ""
 ## **Works in Progress**
 &nbsp;
 
-#### <span style="color: green;">**[NEW]**</span> <a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
+<!-- <span style="color: green;">**[NEW]**</span> -->
+
+####  <a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
 #### <a href="https://www.nber.org/papers/w31447"> NBER Working Paper No. 31447, 2023 </a>
 <!--  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) -->
 
@@ -33,19 +35,16 @@ title: ""
 #### <a href="https://www.nber.org/papers/w30274"> NBER Working Paper No. 30274, 2022 </a>
 
 
----
-
-
-
-
-#### <a href="http://arxiv.org/abs/2111.12258" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
-#### Conditionally accepted by the *Review of Economics and Statistics*  
-
-
 &nbsp;
 
 ## **Publications**
 &nbsp;
+
+
+#### <a href="http://arxiv.org/abs/2111.12258" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+#### Accepted by the *Review of Economics and Statistics*  
+
+---
 
 #### <a href="files/deployments.pdf" target="_blank"> **The Effects of Combat Deployments on Veterans’ Outcomes** </a>  (with <a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>, <a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle Greenberg</a>, <a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew Gudgeon</a>, and  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
 #### <a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30"> NBER Working Paper No. 30622, 2022 </a>
