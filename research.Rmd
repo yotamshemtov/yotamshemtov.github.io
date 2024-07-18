@@ -22,14 +22,6 @@ title: ""
 
 ---
 
-
-<!--  <span style="color: green;">**[NEW]**</span> -->
-#### <a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/BFI_WP_2023-108.pdf" target="_blank"> **The Impact of Incarceration on Employment, Earnings, and Tax Filing** </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
-#### Revision requested by *Econometrica*  
-
-
----
-
 <!-- <span style="color: green;">**[REVISED]**</span> -->
 ####    <a href="https://ekrose.github.io/files/rss_teachers_cjc.pdf" target="_blank"> **The Effects of Teacher Quality on Adult Criminal Justice Contact** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a> and <a href="https://sites.google.com/view/jonathanschellenberg/" target="_blank">Jonathan Schellenberg</a>) 
 #### <a href="https://www.nber.org/papers/w30274"> NBER Working Paper No. 30274, 2022 </a>
@@ -40,15 +32,22 @@ title: ""
 ## **Publications**
 &nbsp;
 
+<!--  <span style="color: green;">**[NEW]**</span> -->
+####  <a href="files/incar_lm.pdf" target="_blank"> **The Impact of Incarceration on Employment, Earnings, and Tax Filing** </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
+#### Accepted by *Econometrica*  
+#### <a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank"> non-technical summary </a>
 
-#### <a href="http://arxiv.org/abs/2111.12258" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+---
+
+####  <a href="files/emco.pdf" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
+#### <a href="https://www.nber.org/papers/w32234"> NBER Working Paper No. 32234, 2024 </a>
 #### Accepted by the *Review of Economics and Statistics*  
 
 ---
 
 #### <a href="files/deployments.pdf" target="_blank"> **The Effects of Combat Deployments on Veterans’ Outcomes** </a>  (with <a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>, <a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle Greenberg</a>, <a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew Gudgeon</a>, and  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
 #### <a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30"> NBER Working Paper No. 30622, 2022 </a>
-#### Accepted by *Journal of Political Economy*  
+#### Forthcoming at *Journal of Political Economy*  
 
 ---
 
