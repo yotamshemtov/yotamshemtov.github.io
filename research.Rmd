@@ -34,8 +34,9 @@ title: ""
 
 <!--  <span style="color: green;">**[NEW]**</span> -->
 ####  <a href="files/incar_lm.pdf" target="_blank"> **The Impact of Incarceration on Employment, Earnings, and Tax Filing** </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
-#### Accepted by *Econometrica*  
 #### <a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank"> non-technical summary </a>
+#### Accepted by *Econometrica*  
+
 
 ---
 
