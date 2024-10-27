@@ -13,8 +13,8 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110538499-1"></script>
 <script>
@@ -68,6 +68,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -92,6 +93,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -149,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +190,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,16 +199,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -244,7 +245,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -286,20 +287,37 @@ $(document).ready(function () {
 <h2><strong>Works in Progress</strong></h2>
 <p> </p>
 <!-- <span style="color: green;">**[NEW]**</span> -->
-<div id="how-replaceable-is-a-low-wage-job-with-evan-k.-rose" class="section level4">
-<h4><a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank"> <strong>How Replaceable Is a Low-Wage Job?</strong> </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)</h4>
+<div id="how-replaceable-is-a-low-wage-job-with-evan-k.-rose"
+class="section level4">
+<h4><a href="https://ekrose.github.io/files/lowwage_rs.pdf" target="_blank">
+<strong>How Replaceable Is a Low-Wage Job?</strong> </a> (with
+<a href="https://ekrose.github.io/" target="_blank">Evan K.
+Rose</a>)</h4>
 </div>
 <div id="nber-working-paper-no.-31447-2023" class="section level4">
-<h4><a href="https://www.nber.org/papers/w31447"> NBER Working Paper No. 31447, 2023 </a></h4>
+<h4><a href="https://www.nber.org/papers/w31447"> NBER Working Paper
+No. 31447, 2023 </a></h4>
 <!--  <a href="files/lowwage_rs.pdf" target="_blank"> **How Replaceable Is a Low-Wage Job?** </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) -->
+</div>
+<div id="revision-requested-by-the-review-of-economic-studies"
+class="section level4">
+<h4>Revision requested by the <em>Review of Economic Studies</em></h4>
 <hr />
 <!-- <span style="color: green;">**[REVISED]**</span> -->
 </div>
-<div id="the-effects-of-teacher-quality-on-adult-criminal-justice-contact-with-evan-k.-rose-and-jonathan-schellenberg" class="section level4">
-<h4><a href="https://ekrose.github.io/files/rss_teachers_cjc.pdf" target="_blank"> <strong>The Effects of Teacher Quality on Adult Criminal Justice Contact</strong> </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a> and <a href="https://sites.google.com/view/jonathanschellenberg/" target="_blank">Jonathan Schellenberg</a>)</h4>
+<div
+id="the-effects-of-teacher-quality-on-adult-criminal-justice-contact-with-evan-k.-rose-and-jonathan-schellenberg"
+class="section level4">
+<h4><a href="https://ekrose.github.io/files/rss_teachers_cjc.pdf" target="_blank">
+<strong>The Effects of Teacher Quality on Adult Criminal Justice
+Contact</strong> </a> (with
+<a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a> and
+<a href="https://sites.google.com/view/jonathanschellenberg/" target="_blank">Jonathan
+Schellenberg</a>)</h4>
 </div>
 <div id="nber-working-paper-no.-30274-2022" class="section level4">
-<h4><a href="https://www.nber.org/papers/w30274"> NBER Working Paper No. 30274, 2022 </a></h4>
+<h4><a href="https://www.nber.org/papers/w30274"> NBER Working Paper
+No. 30274, 2022 </a></h4>
 <p> </p>
 </div>
 </div>
@@ -307,82 +325,175 @@ $(document).ready(function () {
 <h2><strong>Publications</strong></h2>
 <p> </p>
 <!--  <span style="color: green;">**[NEW]**</span> -->
-<div id="the-impact-of-incarceration-on-employment-earnings-and-tax-filing-with-andrew-garin-dmitri-koustas-carl-mcpherson-samuel-norris-matthew-pecenco-evan-k.-rose-and-jeffrey-weaver" class="section level4">
-<h4><a href="files/incar_lm.pdf" target="_blank"> <strong>The Impact of Incarceration on Employment, Earnings, and Tax Filing</strong> </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)</h4>
+<div
+id="the-impact-of-incarceration-on-employment-earnings-and-tax-filing-with-andrew-garin-dmitri-koustas-carl-mcpherson-samuel-norris-matthew-pecenco-evan-k.-rose-and-jeffrey-weaver"
+class="section level4">
+<h4><a href="files/incar_lm.pdf" target="_blank"> <strong>The Impact of
+Incarceration on Employment, Earnings, and Tax Filing</strong> </a>
+(with
+<a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew
+Garin</a>,
+<a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri
+Koustas</a> ,
+<a href="https://carlmcpherson.github.io/" target="_blank">Carl
+McPherson</a>,
+<a href="https://www.samuel-norris.com/" target="_blank">Samuel
+Norris</a> ,
+<a href="https://www.matthewpecenco.com/" target="_blank">Matthew
+Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K.
+Rose</a>, and
+<a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey
+Weaver</a>)</h4>
 </div>
-<div id="non-technical-summary" class="section level4">
-<h4><a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank"> non-technical summary </a></h4>
+<div id="nber-working-paper-no.-32747-2024-non-technical-summary"
+class="section level4">
+<h4><a href="https://www.nber.org/papers/w32747"> NBER Working Paper
+No. 32747, 2024 </a>;
+<a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank">
+non-technical summary </a></h4>
 </div>
 <div id="accepted-by-econometrica" class="section level4">
 <h4>Accepted by <em>Econometrica</em></h4>
 <hr />
 </div>
-<div id="on-recoding-ordered-treatments-as-binary-indicators-with-evan-k.-rose" class="section level4">
-<h4><a href="files/emco.pdf" target="_blank"> <strong>On Recoding Ordered Treatments as Binary Indicators</strong> </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)</h4>
+<div
+id="on-recoding-ordered-treatments-as-binary-indicators-with-evan-k.-rose"
+class="section level4">
+<h4><a href="files/emco.pdf" target="_blank"> <strong>On Recoding
+Ordered Treatments as Binary Indicators</strong> </a> (with
+<a href="https://ekrose.github.io/" target="_blank">Evan K.
+Rose</a>)</h4>
 </div>
 <div id="nber-working-paper-no.-32234-2024" class="section level4">
-<h4><a href="https://www.nber.org/papers/w32234"> NBER Working Paper No. 32234, 2024 </a></h4>
+<h4><a href="https://www.nber.org/papers/w32234"> NBER Working Paper
+No. 32234, 2024 </a></h4>
 </div>
-<div id="accepted-by-the-review-of-economics-and-statistics" class="section level4">
+<div id="accepted-by-the-review-of-economics-and-statistics"
+class="section level4">
 <h4>Accepted by the <em>Review of Economics and Statistics</em></h4>
 <hr />
 </div>
-<div id="the-effects-of-combat-deployments-on-veterans-outcomes-with-jesse-bruhn-kyle-greenberg-matthew-gudgeon-and-evan-k.-rose" class="section level4">
-<h4><a href="files/deployments.pdf" target="_blank"> <strong>The Effects of Combat Deployments on Veterans’ Outcomes</strong> </a> (with <a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>, <a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle Greenberg</a>, <a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew Gudgeon</a>, and <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)</h4>
+<div
+id="the-effects-of-combat-deployments-on-veterans-outcomes-with-jesse-bruhn-kyle-greenberg-matthew-gudgeon-and-evan-k.-rose"
+class="section level4">
+<h4><a href="files/deployments.pdf" target="_blank"> <strong>The Effects
+of Combat Deployments on Veterans’ Outcomes</strong> </a> (with
+<a href="https://www.jessebruhn.com/" target="_blank">Jesse Bruhn</a>,
+<a href="https://sites.google.com/view/kyle-greenberg/home?authuser=0" target="_blank">Kyle
+Greenberg</a>,
+<a href="https://sites.google.com/site/matthewgudgeon/" target="_blank">Matthew
+Gudgeon</a>, and
+<a href="https://ekrose.github.io/" target="_blank">Evan K.
+Rose</a>)</h4>
 </div>
 <div id="nber-working-paper-no.-30622-2022" class="section level4">
-<h4><a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30"> NBER Working Paper No. 30622, 2022 </a></h4>
+<h4><a href="https://www.nber.org/papers/w30622?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30">
+NBER Working Paper No. 30622, 2022 </a></h4>
 </div>
-<div id="forthcoming-at-journal-of-political-economy" class="section level4">
-<h4>Forthcoming at <em>Journal of Political Economy</em></h4>
+<div id="journal-of-political-economy-2024" class="section level4">
+<h4><em>Journal of Political Economy</em>, 2024</h4>
 <hr />
 </div>
-<div id="can-restorative-justice-conferencing-reduce-recidivism-evidence-from-the-make-it-right-program-with-steven-raphael-and-alissa-skog" class="section level4">
-<h4><a href="files/MIR.pdf" target="_blank"> <strong>Can Restorative Justice Conferencing Reduce Recidivism? Evidence From the Make-it-Right Program</strong> (with <a href="https://gspp.berkeley.edu/faculty-and-impact/faculty/steven-raphael" target="_blank">Steven Raphael</a> and <a href="https://www.capolicylab.org/staff/alissa-skog/" target="_blank">Alissa Skog</a>)</h4>
+<div
+id="can-restorative-justice-conferencing-reduce-recidivism-evidence-from-the-make-it-right-program-with-steven-raphael-and-alissa-skog"
+class="section level4">
+<h4><a href="files/MIR.pdf" target="_blank"> <strong>Can Restorative
+Justice Conferencing Reduce Recidivism? Evidence From the Make-it-Right
+Program</strong> (with
+<a href="https://gspp.berkeley.edu/faculty-and-impact/faculty/steven-raphael" target="_blank">Steven
+Raphael</a> and
+<a href="https://www.capolicylab.org/staff/alissa-skog/" target="_blank">Alissa
+Skog</a>)</h4>
 </div>
-<div id="online-appendix-nber-working-paper-no.-29150-2021-probable-causation-podcast" class="section level4">
-<h4><a href="files/MIR_online_appendix.pdf" target="_blank"> Online Appendix; </a> <a href="https://www.nber.org/papers/w29150?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30" target="_blank"> NBER Working Paper No. 29150, 2021; </a> <a href="https://www.probablecausation.com/podcasts/episode-62-yotam-shem-tov" target="_blank"> Probable Causation Podcast </a></h4>
+<div
+id="online-appendix-nber-working-paper-no.-29150-2021-probable-causation-podcast"
+class="section level4">
+<h4><a href="files/MIR_online_appendix.pdf" target="_blank"> Online
+Appendix; </a>
+<a href="https://www.nber.org/papers/w29150?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30" target="_blank">
+NBER Working Paper No. 29150, 2021; </a>
+<a href="https://www.probablecausation.com/podcasts/episode-62-yotam-shem-tov" target="_blank">
+Probable Causation Podcast </a></h4>
 </div>
 <div id="econometrica-2024" class="section level4">
 <h4><em>Econometrica</em>, 2024</h4>
 <hr />
 </div>
-<div id="make-or-buy-the-provision-of-indigent-defense-services-in-the-u.s." class="section level4">
-<h4><a href="files/Shemtov_indigent_RESTAT.pdf" target="_blank"><strong>Make or Buy? The Provision of Indigent Defense Services in the U.S.</strong> </a></h4>
+<div
+id="make-or-buy-the-provision-of-indigent-defense-services-in-the-u.s."
+class="section level4">
+<h4><a href="files/Shemtov_indigent_RESTAT.pdf" target="_blank"><strong>Make
+or Buy? The Provision of Indigent Defense Services in the U.S.</strong>
+</a></h4>
 </div>
-<div id="online-appendix-policy-brief-by-the-california-policy-lab" class="section level4">
-<h4><a href="files/rest_a_00976-supp.pdf" target="_blank">Online Appendix</a>; <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a></h4>
+<div id="online-appendix-policy-brief-by-the-california-policy-lab"
+class="section level4">
+<h4><a href="files/rest_a_00976-supp.pdf" target="_blank">Online
+Appendix</a>;
+<a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy
+Brief by the California Policy Lab</a></h4>
 </div>
-<div id="review-of-economics-and-statistics-2022" class="section level4">
+<div id="review-of-economics-and-statistics-2022"
+class="section level4">
 <h4><em>Review of Economics and Statistics</em>, 2022</h4>
 <hr />
 </div>
-<div id="school-discipline-and-racial-disparities-in-early-adulthood-with-miles-davison-andrew-penner-emily-penner-nikolas-pharris-ciurej-sonya-r.-porter-evan-k.-rose-and-paul-yoo" class="section level4">
-<h4><a href="https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html" target="_blank"> <strong>School Discipline and Racial Disparities in Early Adulthood</strong> </a> (with Miles Davison, <a href="http://www.socsci.uci.edu/~penner/" target="_blank">Andrew Penner</a> , <a href="https://emilykpenner.com/" target="_blank">Emily Penner</a>) , Nikolas Pharris-Ciurej, Sonya R. Porter, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a> , and Paul Yoo)</h4>
+<div
+id="school-discipline-and-racial-disparities-in-early-adulthood-with-miles-davison-andrew-penner-emily-penner-nikolas-pharris-ciurej-sonya-r.-porter-evan-k.-rose-and-paul-yoo"
+class="section level4">
+<h4><a href="https://www.census.gov/library/working-papers/2021/adrm/CES-WP-21-14.html" target="_blank">
+<strong>School Discipline and Racial Disparities in Early
+Adulthood</strong> </a> (with Miles Davison,
+<a href="http://www.socsci.uci.edu/~penner/" target="_blank">Andrew
+Penner</a> , <a href="https://emilykpenner.com/" target="_blank">Emily
+Penner</a>) , Nikolas Pharris-Ciurej, Sonya R. Porter,
+<a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a> ,
+and Paul Yoo)</h4>
 </div>
 <div id="educational-researcher-2022" class="section level4">
 <h4><em>Educational Researcher</em>, 2022</h4>
 <hr />
 </div>
-<div id="how-does-incarceration-affect-reoffending-estimating-the-dose-response-function-with-evan-k.-rose" class="section level4">
-<h4><a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> <strong>How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function</strong> </a> (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)</h4>
+<div
+id="how-does-incarceration-affect-reoffending-estimating-the-dose-response-function-with-evan-k.-rose"
+class="section level4">
+<h4><a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank">
+<strong>How Does Incarceration Affect Reoffending? Estimating the
+Dose-Response Function</strong> </a> (with
+<a href="https://ekrose.github.io/" target="_blank">Evan K.
+Rose</a>)</h4>
 </div>
 <div id="online-appendix-jmp-version" class="section level4">
-<h4><a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix </a>; <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version </a></h4>
+<h4><a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank">
+Online Appendix </a>;
+<a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version
+</a></h4>
 </div>
 <div id="journal-of-political-economy-2021" class="section level4">
 <h4><em>Journal of Political Economy</em>, 2021</h4>
 <hr />
 </div>
-<div id="inference-on-a-new-class-of-sample-average-treatment-effects-with-jasjeet-s.-sekhon" class="section level4">
-<h4><a href="files/Sekhon_ShemTov_2020_JASA.pdf" target="_blank"><strong>Inference on a New Class of Sample Average Treatment Effects</strong></a> (with <a href="http://sekhon.berkeley.edu/" target="_blank">Jasjeet S. Sekhon</a>)</h4>
+<div
+id="inference-on-a-new-class-of-sample-average-treatment-effects-with-jasjeet-s.-sekhon"
+class="section level4">
+<h4><a href="files/Sekhon_ShemTov_2020_JASA.pdf" target="_blank"><strong>Inference
+on a New Class of Sample Average Treatment Effects</strong></a> (with
+<a href="http://sekhon.berkeley.edu/" target="_blank">Jasjeet S.
+Sekhon</a>)</h4>
 </div>
-<div id="journal-of-the-american-statistical-association-2021" class="section level4">
+<div id="journal-of-the-american-statistical-association-2021"
+class="section level4">
 <h4><em>Journal of the American Statistical Association</em>, 2021</h4>
 <hr />
 </div>
-<div id="the-classification-permutation-test-a-non-parametric-test-for-equality-of-multivariate-distributions-with-johann-gagnon-bartsch" class="section level4">
-<h4><a href="files/GagnonBartsch_and_ShemTov_2019_AOAS.pdf" target="_blank"> <strong>The Classification Permutation Test: A Non-Parametric Test for Equality of Multivariate Distributions</strong></a> (with <a href="http://dept.stat.lsa.umich.edu/~johanngb/" target="_blank">Johann Gagnon-Bartsch</a>)</h4>
+<div
+id="the-classification-permutation-test-a-non-parametric-test-for-equality-of-multivariate-distributions-with-johann-gagnon-bartsch"
+class="section level4">
+<h4><a href="files/GagnonBartsch_and_ShemTov_2019_AOAS.pdf" target="_blank">
+<strong>The Classification Permutation Test: A Non-Parametric Test for
+Equality of Multivariate Distributions</strong></a> (with
+<a href="http://dept.stat.lsa.umich.edu/~johanngb/" target="_blank">Johann
+Gagnon-Bartsch</a>)</h4>
 </div>
 <div id="the-annals-of-applied-statistics-2019." class="section level4">
 <h4><em>The Annals of Applied Statistics</em>, 2019.</h4>
@@ -392,29 +503,44 @@ $(document).ready(function () {
 <div id="pre-phd-publications" class="section level2">
 <h2><strong>Pre-PhD Publications</strong></h2>
 <p> </p>
-<div id="a-note-on-fairness-and-personalised-pricing-with-nir-vulkan" class="section level4">
-<h4><a href="http://www.sciencedirect.com/science/article/pii/S0165176515003705" target="_blank"><strong>A note on fairness and personalised pricing</strong></a> (with Nir Vulkan)</h4>
+<div id="a-note-on-fairness-and-personalised-pricing-with-nir-vulkan"
+class="section level4">
+<h4><a href="http://www.sciencedirect.com/science/article/pii/S0165176515003705" target="_blank"><strong>A
+note on fairness and personalised pricing</strong></a> (with Nir
+Vulkan)</h4>
 </div>
 <div id="economics-letters-2015." class="section level4">
 <h4><em>Economics Letters</em>, 2015.</h4>
 <hr />
 </div>
-<div id="entrepreneurs-negotiation-behavior-with-sabrina-artinger-and-nir-vulkan" class="section level4">
-<h4><a href="https://link.springer.com/article/10.1007/s11187-014-9619-8" target="_blank"><strong>Entrepreneurs’ Negotiation Behavior</strong></a> (with Sabrina Artinger and Nir Vulkan)</h4>
+<div
+id="entrepreneurs-negotiation-behavior-with-sabrina-artinger-and-nir-vulkan"
+class="section level4">
+<h4><a href="https://link.springer.com/article/10.1007/s11187-014-9619-8" target="_blank"><strong>Entrepreneurs’
+Negotiation Behavior</strong></a> (with Sabrina Artinger and Nir
+Vulkan)</h4>
 </div>
 <div id="small-business-economics-2015." class="section level4">
 <h4><em>Small Business Economics</em>, 2015.</h4>
 <hr />
 </div>
-<div id="international-tax-competition-zero-tax-rate-at-the-top-re-established-with-tomer-blumkin-and-efraim-sadka" class="section level4">
-<h4><a href="https://link.springer.com/article/10.1007/s10797-014-9335-y" target="_blank"><strong>International Tax Competition: Zero Tax Rate at the Top Re-Established</strong></a> (with Tomer Blumkin and Efraim Sadka)</h4>
+<div
+id="international-tax-competition-zero-tax-rate-at-the-top-re-established-with-tomer-blumkin-and-efraim-sadka"
+class="section level4">
+<h4><a href="https://link.springer.com/article/10.1007/s10797-014-9335-y" target="_blank"><strong>International
+Tax Competition: Zero Tax Rate at the Top Re-Established</strong></a>
+(with Tomer Blumkin and Efraim Sadka)</h4>
 </div>
-<div id="international-tax-and-public-finance-2015." class="section level4">
+<div id="international-tax-and-public-finance-2015."
+class="section level4">
 <h4><em>International Tax and Public Finance</em>, 2015.</h4>
 <hr />
 </div>
-<div id="a-case-for-maximum-wage-with-tomer-blumkin-and-efraim-sadka" class="section level4">
-<h4><a href="http://www.sciencedirect.com/science/article/pii/S0165176513002413" target="_blank"><strong>A Case for Maximum Wage</strong></a> (with Tomer Blumkin and Efraim Sadka)</h4>
+<div id="a-case-for-maximum-wage-with-tomer-blumkin-and-efraim-sadka"
+class="section level4">
+<h4><a href="http://www.sciencedirect.com/science/article/pii/S0165176513002413" target="_blank"><strong>A
+Case for Maximum Wage</strong></a> (with Tomer Blumkin and Efraim
+Sadka)</h4>
 </div>
 <div id="economics-letters-2013." class="section level4">
 <h4><em>Economics Letters</em>, 2013.</h4>
