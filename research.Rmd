@@ -74,7 +74,7 @@ title: ""
 ---
 
 
-#### <a href="files/Sekhon_ShemTov_2020_JASA.pdf" target="_blank">**Inference on a New Class of Sample Average Treatment Effects**</a> (with <a href="http://sekhon.berkeley.edu/" target="_blank">Jasjeet S. Sekhon</a>) 
+#### <a href="files/Sekhon_ShemTov_2020_JASA.pdf" target="_blank">**Inference on a New Class of Sample Average Treatment Effects**</a> (with <a href="https://www.jsekhon.com/" target="_blank">Jasjeet S. Sekhon</a>) 
 #### *Journal of the American Statistical Association*, 2021
 
 ---
