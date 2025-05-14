@@ -14,7 +14,9 @@ title: ""
 <!-- <span style="color: green;">**[NEW]**</span> -->
 
 ####  <a href="files/cahoots.pdf" target="_blank"> **Mobile Crisis Response Teams Support Better Policing: Evidence from CAHOOTS** </a> (with <a href="https://sites.google.com/site/jonathanmvdavis/" target="_blank">Jonathan Davis</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a>, Jadon Schmitt, and <a href="https://artsci.tamu.edu/economics/contact/profiles/chelsea-strickland.html" target="_blank">Chelsea Strickland</a> ) 
-#### <a href="https://www.nber.org/papers/w33761"> NBER Working Paper No. 33761, 2025 </a>
+#### <a href="https://www.nber.org/papers/w33761"> NBER Working Paper No. 33761, 2025 </a>;  <a href="files/cahoots_summary.pdf" target="_blank"> non-technical summary </a>
+
+
 
 ---
 
