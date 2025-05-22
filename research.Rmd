@@ -42,16 +42,16 @@ title: ""
 &nbsp;
 
 <!--  <span style="color: green;">**[NEW]**</span> -->
-####  <a href="files/incar_lm.pdf" target="_blank"> **The Impact of Incarceration on Employment, Earnings, and Tax Filing** </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
-#### <a href="https://www.nber.org/papers/w32747"> NBER Working Paper No. 32747, 2024 </a>; <a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank"> non-technical summary </a>
-#### Accepted by *Econometrica*  
-
-
----
 
 ####  <a href="files/emco.pdf" target="_blank"> **On Recoding Ordered Treatments as Binary Indicators** </a>  (with  <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>)
 #### <a href="https://www.nber.org/papers/w32234"> NBER Working Paper No. 32234, 2024 </a>
 #### Accepted by the *Review of Economics and Statistics*  
+
+---
+
+####  <a href="files/incar_lm.pdf" target="_blank"> **The Impact of Incarceration on Employment, Earnings, and Tax Filing** </a> (with <a href="https://sites.google.com/view/andygarin/home" target="_blank">Andrew Garin</a>, <a href="http://www.dmitrikoustas.com/" target="_blank">Dmitri Koustas</a> , <a href="https://carlmcpherson.github.io/" target="_blank">Carl McPherson</a>, <a href="https://www.samuel-norris.com/" target="_blank">Samuel Norris</a> , <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a>, <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>, and <a href="https://www.jeff-weaver.com/" target="_blank">Jeffrey Weaver</a>)
+#### <a href="files/online_appendix_incar"> *Online appendix* </a>; <a href="https://www.nber.org/papers/w32747"> NBER Working Paper No. 32747, 2024 </a>; <a href="https://bfi.uchicago.edu/wp-content/uploads/2023/08/The-Impact-of-Incarceration-on-Employment-Earnings-and-Tax-Filing-1.pdf" target="_blank"> non-technical summary </a>
+#### *Econometrica*, 2025  
 
 ---
 
@@ -65,7 +65,7 @@ title: ""
 
 
 #### <a href="files/MIR.pdf" target="_blank"> **Can Restorative Justice Conferencing Reduce Recidivism? Evidence From the Make-it-Right Program** (with  <a href="https://gspp.berkeley.edu/faculty-and-impact/faculty/steven-raphael" target="_blank">Steven Raphael</a> and <a href="https://www.capolicylab.org/staff/alissa-skog/" target="_blank">Alissa Skog</a>) 
-#### <a href="files/MIR_online_appendix.pdf" target="_blank"> Online Appendix;  </a> <a href="https://www.nber.org/papers/w29150?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30" target="_blank"> NBER Working Paper No. 29150, 2021; </a> <a href="https://www.probablecausation.com/podcasts/episode-62-yotam-shem-tov" target="_blank"> Probable Causation Podcast </a>
+#### <a href="files/MIR_online_appendix.pdf" target="_blank"> *Online appendix*;  </a> <a href="https://www.nber.org/papers/w29150?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg30" target="_blank"> NBER Working Paper No. 29150, 2021; </a> <a href="https://www.probablecausation.com/podcasts/episode-62-yotam-shem-tov" target="_blank"> Probable Causation Podcast </a>
 #### *Econometrica*, 2024  
 
 
@@ -73,7 +73,7 @@ title: ""
 
 
 #### <a href="files/Shemtov_indigent_RESTAT.pdf" target="_blank">**Make or Buy? The Provision of Indigent Defense Services in the U.S.** </a> 
-#### <a href="files/rest_a_00976-supp.pdf" target="_blank">Online Appendix</a>;    <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
+#### <a href="files/rest_a_00976-supp.pdf" target="_blank">*Online appendix* </a>;    <a href="https://www.capolicylab.org/comparing-criminal-defense-brief/"target="_blank">Policy Brief by the California Policy Lab</a> 
 #### *Review of Economics and Statistics*, 2022  
 
 ---
@@ -84,7 +84,7 @@ title: ""
 ---
 
 #### <a href="files/Rose_Shemtov_2021_Manuscript.pdf" target="_blank"> **How Does Incarceration Affect Reoffending? Estimating the Dose-Response Function**  </a>  (with <a href="https://ekrose.github.io/" target="_blank">Evan K. Rose</a>) 
-#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> Online Appendix  </a>;   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a>  
+#### <a href="files/Rose_Shemtov_2021_OnlineAppendix.pdf" target="_blank"> *Online appendix*  </a>;   <a href="files/YotamShemTov_JMP.pdf" target="_blank"> JMP version  </a>  
 #### *Journal of Political Economy*, 2021   
 
 
