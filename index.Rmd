@@ -23,11 +23,7 @@ title: "Yotam Shem-Tov"
 <font size="5"> 
 
 
-I am an Assistant Professor of Economics at the University of California, Los Angeles.
-
-&nbsp;
-
-I am also an NBER Faculty Research Fellow, a Research Affiliate at IZA, a Faculty Affiliate at CPL and CCPR, and a recipient of the Sloan Fellowship. 
+I am an Assistant Professor of Economics at the University of California, Los Angeles. I am also an NBER Faculty Research Fellow, a Research Affiliate at IZA, a Faculty Affiliate at CPL and CCPR, and a recipient of the Sloan Fellowship. 
 
 &nbsp;
 
@@ -36,12 +32,11 @@ I study topics in labor economics, criminal justice and crime, and applied econo
 
 &nbsp;
 
-
-&nbsp;
-
 <!-- E-mail: shemtov@econ.ucla.edu -->
-E-mail: <a href="shemtov@econ.ucla.edu" target="_blank"> shemtov@econ.ucla.edu</a></p></section>
 <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
+<a href="files/Research_Statement_Yotam_ShemTov.pdf" target="_blank">Research Statement vitae</a></p></section>
+E-mail: <a href="shemtov@econ.ucla.edu" target="_blank"> shemtov@econ.ucla.edu</a></p></section>
+
 
 <!-- &nbsp; -->
 
