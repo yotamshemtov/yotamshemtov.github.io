@@ -23,7 +23,9 @@ title: "Yotam Shem-Tov"
 <font size="5"> 
 
 
-I am an Assistant Professor of Economics at the University of California, Los Angeles. I am also an NBER Faculty Research Fellow, a Research Affiliate at IZA, a Faculty Affiliate at CPL and CCPR, and a recipient of the Sloan Fellowship. 
+I am an Assistant Professor of Economics at UCLA, affiliated with the NBER and IZA, and a recipient of the Sloan Research Fellowship.
+
+<!-- I am an Assistant Professor of Economics at the University of California, Los Angeles. I am also an NBER Faculty Research Fellow, a Research Affiliate at IZA, a Faculty Affiliate at CPL and CCPR, and a recipient of the Sloan Fellowship.     -->
 
 &nbsp;
 
@@ -31,6 +33,11 @@ I study topics in labor economics, criminal justice and crime, and applied econo
 <!-- I received a Ph.D. in Economics from UC Berkeley in May 2019. Before that, I completed an M.A. in Economics and a B.A. in Economics and Philosophy from Tel-Aviv University.    -->
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 <!-- E-mail: shemtov@econ.ucla.edu -->
 <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
@@ -42,9 +49,10 @@ E-mail: <a href="shemtov@econ.ucla.edu" target="_blank"> shemtov@econ.ucla.edu</
 
 <!--  **UCLA students**: Schedule a <a href="https://calendly.com/shem-tov/15min" target="_blank">15-min</a> meeting with me (feel free to register for more than one slot) -->
 
+
 &nbsp;
 
-
+&nbsp;
 
 Check out my better half's website <a href="https://sites.google.com/site/julianalondonovelez/home" target="_blank">here</a>.
 
