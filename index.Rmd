@@ -41,7 +41,7 @@ I study topics in labor economics, criminal justice and crime, and applied econo
 
 <!-- E-mail: shemtov@econ.ucla.edu -->
 <a href="files/CV_Yotam_ShemTov.pdf" target="_blank">Curriculum vitae</a></p></section>
-<a href="files/Research_Statement_Yotam_ShemTov.pdf" target="_blank">Research Statement vitae</a></p></section>
+<a href="files/Research_Statement_Yotam_ShemTov.pdf" target="_blank">Research Statement</a></p></section>
 E-mail: <a href="shemtov@econ.ucla.edu" target="_blank"> shemtov@econ.ucla.edu</a></p></section>
 
 
